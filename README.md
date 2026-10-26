@@ -1,3 +1,23 @@
+# Harvey em português: um vendedor que roda no seu Claude
+
+> **Cópia mantida pela [Exos Marketing](https://www.instagram.com/exosmkt/).** O Harvey foi criado por **[ethanplusai](https://github.com/ethanplusai)** e está aqui sob a licença MIT, sem alteração no código. Repositório original: [ethanplusai/harvey](https://github.com/ethanplusai/harvey).
+
+## O que ele faz
+
+Você diz o que vende e quem é o seu cliente ideal. O Harvey encontra empresas que combinam com você, estuda o site de cada uma, separa as com mais chance de comprar, escreve um e-mail personalizado citando algo real do negócio, lê as respostas e conduz a conversa até a reunião. **Nada sai sem a sua aprovação**, e tudo roda no seu computador com um painel ao vivo (`localhost:5555`).
+
+## Instalação em 1 minuto
+
+Com o Claude Code instalado e logado (`claude login`), abra o terminal e peça:
+
+> clona o github.com/ethanplusai/harvey e me ajuda a configurar o Harvey
+
+**Precisa de:** Python 3.11 ou mais novo, assinatura Claude Pro/Max (ou ChatGPT com Codex), uma caixa de e-mail de envio, de preferência num domínio secundário (Google Workspace, ~US$ 7/mês), e aquecimento dessa caixa antes do primeiro disparo.
+
+**Cuidados:** e-mail frio tem regra. No Brasil vale a LGPD: mande só para empresas para as quais a sua oferta faz sentido, diga de onde veio o contato e respeite quem pedir para sair. Leia a seção "Legal and deliverability" abaixo antes da primeira campanha.
+
+---
+
 # Harvey
 
 **An autonomous sales agent that runs on your Claude Code or Codex subscription.**
